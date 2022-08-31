@@ -1,0 +1,39 @@
+.status {
+    background-color: #2d2f9d;
+    color: #c51414;
+}
+
+.linkSymbol {
+    margin-top: 1rem;
+}
+
+#alignEnd {
+    text-align: end;
+}
+
+#alignCenter {
+    text-align: center;
+}
+
+#alignLeft {
+    text-align: left;
+}
+
+#flGrey {
+    background-color: #fefdfd;
+}
+
+.dateMargin {
+    margin-top: -1rem;
+    border: none
+}
+
+.dateMarginBottom {
+    margin-bottom: 0.2rem;
+}
+
+#form-control {
+    margin-top: -0.1rem;
+    font-size: 0.8rem;
+    border-color: lightgray;
+}
